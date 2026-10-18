@@ -2,7 +2,7 @@
 
 
 const API_URL =
-  'https://script.google.com/macros/s/AKfycbwT3ikXk0tcHz3gpYpbq8N1lCbfb76HkeXs2LI5aE1V42z8FjjRownBsoXmwES0wKJLSg/exec;
+  'https://script.google.com/macros/s/AKfycbzy1Q_yKIbOpH0_l9zxi33VEpW55MRsq064p-ZIcWYHDqvIyMvQ1aM0IS4fWfHr2Li4/exec';
 
 
 const form =
